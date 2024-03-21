@@ -19,7 +19,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 global.BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "Skybot-Mdོ" //your bot name
-global.OWNER_NAME = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //your name
+global.OWNER_NAME = "ᴹᴿ᭄ Cakrawala ×፝֟͜×" //your name
 global.OWNER_NUMBER = "#" //your telegram number
 global.OWNER = ["https://t.me/TheHunterSky"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
 global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
